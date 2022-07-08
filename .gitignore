@@ -1,0 +1,7 @@
+
+# ignore Jupyter notebook auto-saves
+.ipynb_checkpoints
+
+# ignore dataset files / folders to keep repo small
+*.ds*
+
